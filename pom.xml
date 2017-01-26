@@ -24,6 +24,7 @@
 					<artifactId>maven-compiler-plugin</artifactId>
 					<version>3.2</version>
 					<configuration>
+					<webXml>WebContent\WEB-INF\web.xml</webXml>
 						<verbose>true</verbose>
 						<source>1.8</source>
 						<target>1.8</target>
